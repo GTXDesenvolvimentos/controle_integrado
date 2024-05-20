@@ -1,0 +1,20 @@
+[14-Mar-2024 17:59:41 America/Fortaleza] PHP Warning:  require(/home2/adsaletecom/public_html/app/Config/Paths.php): Failed to open stream: No such file or directory in /home2/adsaletecom/public_html/index.php on line 34
+[14-Mar-2024 17:59:41 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adsaletecom/public_html/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/adsaletecom/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/adsaletecom/public_html/index.php on line 34
+[14-Mar-2024 17:59:45 America/Fortaleza] PHP Warning:  require(/home2/adsaletecom/public_html/app/Config/Paths.php): Failed to open stream: No such file or directory in /home2/adsaletecom/public_html/index.php on line 34
+[14-Mar-2024 17:59:45 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adsaletecom/public_html/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/adsaletecom/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/adsaletecom/public_html/index.php on line 34
+[14-Mar-2024 17:59:46 America/Fortaleza] PHP Warning:  require(/home2/adsaletecom/public_html/app/Config/Paths.php): Failed to open stream: No such file or directory in /home2/adsaletecom/public_html/index.php on line 34
+[14-Mar-2024 17:59:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adsaletecom/public_html/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/adsaletecom/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/adsaletecom/public_html/index.php on line 34
+[14-Mar-2024 18:01:53 America/Fortaleza] PHP Warning:  require(/home2/adsaletecom/public_html/app/Config/Paths.php): Failed to open stream: No such file or directory in /home2/adsaletecom/public_html/index.php on line 34
+[14-Mar-2024 18:01:53 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/adsaletecom/public_html/app/Config/Paths.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/adsaletecom/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/adsaletecom/public_html/index.php on line 34
